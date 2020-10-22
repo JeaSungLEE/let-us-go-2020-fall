@@ -24,7 +24,7 @@ export const Hero = () => {
         data-sal-duration="800"
         data-sal-easing="ease"
       >
-        2020 SUMMER
+        2020 FALL
       </S.SubTitle>
       <S.Title
         id="hero"
@@ -49,7 +49,7 @@ export const Hero = () => {
         data-sal-duration="800"
         data-sal-easing="ease"
       >
-        2020년 8월 15일 13:00~18:00
+        2020년 11월 21일 13:00~18:00
       </S.Contents>
       <S.SubContents
         data-sal="slide-up"

@@ -3,7 +3,7 @@ import React from "react"
 import thumbnail from '../../resources/thumbnail.png';
 import icon from '../../resources/icon.jpg';
 
-const title = 'let us:Go! 2020 SUMMER';
+const title = 'let us:Go! 2020 FALL';
 const description = 'let us: Go! iOS 개발 세미나가 2020년 여름에 이어 이번에도 유튜브 라이브 방송으로 여러분을 찾아갑니다!';
 
 export const Head = () => (

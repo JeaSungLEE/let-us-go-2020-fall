@@ -1,7 +1,7 @@
 {
-  "name": "let-us-go-2020-summer",
+  "name": "let-us-go-2020-fall",
   "private": true,
-  "description": "let-us:GO 2020년 여름 컨퍼런스",
+  "description": "let-us:GO 2020년 가을 컨퍼런스",
   "version": "0.1.0",
   "scripts": {
     "build": "gatsby build",
