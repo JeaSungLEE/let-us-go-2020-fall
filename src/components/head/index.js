@@ -4,12 +4,12 @@ import thumbnail from '../../resources/thumbnail.png';
 import icon from '../../resources/icon.jpg';
 
 const title = 'let us:Go! 2020 SUMMER';
-const description = 'let us: Go! iOS 개발 세미나가 2020년 올해 처음 유튜브 라이브 방송으로 여러분을 찾아갑니다!';
+const description = 'let us: Go! iOS 개발 세미나가 2020년 여름에 이어 이번에도 유튜브 라이브 방송으로 여러분을 찾아갑니다!';
 
 export const Head = () => (
   <Helmet
     htmlAttributes={{ lang: 'ko' }}
-    title='Let us:Go! 2020 SUMMER'
+    title='Let us:Go! 2020 FALL'
     meta={[
       {
         name: 'description',
