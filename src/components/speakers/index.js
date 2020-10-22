@@ -4,12 +4,16 @@ import { SpeakerItem } from "../speaker-item"
 import hyunhoIcon from '../../resources/lee.png';
 import gomtigimIcon from '../../resources/gom.png';
 import dominic from '../../resources/dominic.jpeg';
+import minsone from '../../resources/minsone.jpeg';
 
 const speakerList = [
   {
     name: '유현식',
   }, {
     name: '민소네',
+    company: '카카오뱅크',
+    profile: minsone,
+    summary: '은행원 좋아요',
   }, {
     name: '안솔찬',
   }, {
