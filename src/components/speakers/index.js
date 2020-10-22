@@ -1,16 +1,9 @@
 import React from 'react';
 import S from './styles';
 import { SpeakerItem } from "../speaker-item"
-import unnyoungIcon from '../../resources/unnnyong.jpeg';
 import hyunhoIcon from '../../resources/lee.png';
-import yagomIcon from '../../resources/ya.png';
 import gomtigimIcon from '../../resources/gom.png';
-import nosujinIcon from '../../resources/no.jpg';
-import dogilIcon from '../../resources/do.png';
-import genetoryIcon from '../../resources/genetory.png';
-import sungIcon from '../../resources/sung.png';
-import anyIcon from '../../resources/any.jpeg';
-import jangIcon from '../../resources/jang.png';
+import dominic from '../../resources/dominic.jpeg';
 
 const speakerList = [
   {
@@ -31,6 +24,13 @@ const speakerList = [
     name: 'giftbot',
   }, {
     name: '도미닉',
+    company: '세차왕',
+    profile: dominic,
+    email: 'kiljh@me.com',
+    git: 'https://github.com/appleceo',
+    blog: 'https://kiljh.tistory.com/',
+    youtube: 'https://www.youtube.com/channel/UCmCI-JYClFCrs3OEEqhXb4Q',
+    summary: '안녕하세요 도미닉입니다',
   }, {
     name: '곰튀김',
     company: 'n.code',
