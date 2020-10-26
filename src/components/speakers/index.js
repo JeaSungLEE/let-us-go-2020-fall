@@ -7,6 +7,7 @@ import dominic from '../../resources/dominic.jpeg';
 import minsone from '../../resources/minsone.jpeg';
 import giftbot from '../../resources/giftbot.jpeg';
 import hyunsik from '../../resources/hyunsik.jpeg';
+import solchan from '../../resources/solchan.png';
 
 const speakerList = [
   {
@@ -24,6 +25,9 @@ const speakerList = [
     summary: '은행원 좋아요',
   }, {
     name: '안솔찬',
+    company: '컬쳐히어로',
+    profile: solchan,
+    summary: '왜 벌써 11월이죠..?',
   }, {
     name: '이현호',
     company: 'wadiz',
