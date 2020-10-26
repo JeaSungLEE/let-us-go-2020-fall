@@ -49,7 +49,7 @@ export const Hero = () => {
         data-sal-duration="800"
         data-sal-easing="ease"
       >
-        2020년 11월 21일 13:00~18:00
+        2020년 11월 21일 13:00~16:00
       </S.Contents>
       <S.SubContents
         data-sal="slide-up"
