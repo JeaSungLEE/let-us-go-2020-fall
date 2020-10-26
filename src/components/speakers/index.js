@@ -5,12 +5,20 @@ import hyunhoIcon from '../../resources/lee.png';
 import gomtigimIcon from '../../resources/gom.png';
 import dominic from '../../resources/dominic.jpeg';
 import minsone from '../../resources/minsone.jpeg';
+import giftbot from '../../resources/giftbot.jpeg';
+import hyunsik from '../../resources/hyunsik.jpeg';
 
 const speakerList = [
   {
     name: '유현식',
+    company: '시어스랩',
+    profile: hyunsik,
+    email: 'dbgustlr92@gmailcom',
+    git: 'https://github.com/Hyunsik-Yoo',
+    blog: 'https://mcflynn.tistory.com/',
+    summary: '마스크 벗고 싶어요…',
   }, {
-    name: '민소네',
+    name: '안정민',
     company: '카카오뱅크',
     profile: minsone,
     summary: '은행원 좋아요',
@@ -25,7 +33,10 @@ const speakerList = [
     blog: 'https://dev200ok.blogspot.com/',
     summary: '노래하는 iOS개발자 입니다',
   }, {
-    name: 'giftbot',
+    name: 'Fourenn',
+    profile: giftbot,
+    email: 'fourenn@naver.com',
+    summary: ' SwiftUI 오픈 베타 종료!',
   }, {
     name: '도미닉',
     company: '세차왕',

@@ -9,12 +9,37 @@ const timetableList = [
     badge: ['Kuu'],
   },
   {
-    label: '',
-    title: '준비중',
-    badge: [],
+    label: '13:10',
+    title: 'GoogleSheet로 .strings 파일 관리하기 (문구 수정 떠넘기기)',
+    badge: ['유현식'],
   },
   {
-    label: '17:50',
+    label: '13:40',
+    title: '위젯과 앱클립에 대해서 만들면서 발생하는 다양한 상황',
+    badge: ['안솔찬'],
+  },
+  {
+    label: '14:10',
+    title: 'DI container를 이용하여 레거시와 모듈화를 동시에 잡기',
+    badge: ['안정민'],
+  },
+  {
+    label: '14:40',
+    title: '빌드 버튼이 눌린다음에 무슨일이 일어나는 걸까?',
+    badge: ['이현호'],
+  },
+  {
+    label: '15:10',
+    title: 'Deprecated API로 보는 SwiftUI',
+    badge: ['Fourenn'],
+  },
+  {
+    label: '15:30',
+    title: '열거형!',
+    badge: ['도미닉'],
+  },
+  {
+    label: '15:50',
     title: '폐회사',
     badge: [],
   },

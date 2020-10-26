@@ -24,7 +24,7 @@ export const Hero = () => {
         data-sal-duration="800"
         data-sal-easing="ease"
       >
-        2020 FALL
+        2020 fall
       </S.SubTitle>
       <S.Title
         id="hero"
