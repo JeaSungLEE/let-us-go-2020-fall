@@ -6,7 +6,7 @@ export const Footer = () => (
   <S.Footer>
     <S.Link
       id='footer'
-      href='https://iosdevkor.github.io/let_us_go_2019_fall_review/'
+      href='https://let-us-go-2020-summer.vercel.app'
       target='_blank'
       data-sal="slide-up"
       data-sal-delay= "100"
