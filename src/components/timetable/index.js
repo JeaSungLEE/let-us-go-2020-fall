@@ -40,6 +40,11 @@ const timetableList = [
   },
   {
     label: '16:00',
+    title: '코드 삼분지계: 관심사에 따른 코드 분리',
+    badge: ['곰튀김'],
+  },
+  {
+    label: '16:20',
     title: '폐회사',
     badge: [],
   },
