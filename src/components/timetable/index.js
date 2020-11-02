@@ -34,12 +34,12 @@ const timetableList = [
     badge: ['Fourenn'],
   },
   {
-    label: '15:30',
+    label: '15:40',
     title: '열거형!',
     badge: ['도미닉'],
   },
   {
-    label: '15:50',
+    label: '16:00',
     title: '폐회사',
     badge: [],
   },
