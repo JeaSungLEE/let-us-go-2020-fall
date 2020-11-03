@@ -22,6 +22,9 @@ const speakerList = [
     name: '안정민',
     company: '카카오뱅크',
     profile: minsone,
+    email: 'jungminahn.minsone@gmail.com',
+    git: 'https://github.com/minsone',
+    blog: 'https://minsone.github.io',
     summary: '은행원 좋아요',
   }, {
     name: '안솔찬',
