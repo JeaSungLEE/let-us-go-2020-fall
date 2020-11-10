@@ -35,7 +35,7 @@ const timetableList = [
   },
   {
     label: '15:40',
-    title: '열거형!',
+    title: '열거형을 활용하는 열가지 방법',
     badge: ['도미닉'],
   },
   {
