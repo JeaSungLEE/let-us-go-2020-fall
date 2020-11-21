@@ -1,17 +1,17 @@
 import S from './styles';
 import React from "react"
-import scheduleIcon from '../../resources/schedule.svg';
+import youtubeIcon from '../../resources/youtube_b.svg';
 import { GA_ACTION, GAClickEvent } from "../../utils/ga"
 
-const downlaodLink = 'https://drive.google.com/uc?id=1tq1m3myzWKDEaMJgopxjVEhPd9FrhzKJ&authuser=0&export=download';
+const youtubeLink = 'https://youtu.be/73IVJfFHDzI';
 
 export const FloatingButton = () => (
   <S.Button
-    href={downlaodLink}
+    href={youtubeLink}
     target='_blank'
-    onClick={ GAClickEvent('플로팅_버튼', GA_ACTION.CLICK, '스케쥴') }
+    onClick={ GAClickEvent('플로팅_버튼', GA_ACTION.CLICK, '유튜브') }
   >
-    <S.Icon src={scheduleIcon} />
-    <span>Add Schedule</span>
+    <S.Icon src={youtubeIcon} />
+    <span>Live Seminar</span>
   </S.Button>
 )
