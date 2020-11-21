@@ -1,6 +1,6 @@
 import { Helmet } from "react-helmet"
 import React from "react"
-import thumbnail from '../../resources/thumbnail.png';
+import thumbnail from '../../resources/thumbnail.jpg';
 import icon from '../../resources/icon.jpg';
 
 const title = 'let us:Go! 2020 fall';
